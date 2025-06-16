@@ -20,7 +20,7 @@ int main(void) {
     // }
 
 
-    //bài 3, độ phức tạp không gian:
+    //bài 3, độ phức tạp không gian: O(n)
     // int* mallocArray(int n) {
     //     int* arr = (int*)malloc(n * sizeof(int));
     //     for (int i = 0; i < n; i++) {
